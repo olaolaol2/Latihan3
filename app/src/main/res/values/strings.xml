@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Latihan3</string>
+    <string name="register">doesn\'t have account?</string>
+    <string name="Terms">Agree with Terms and Condition</string>
+    <string name="almostthere">Thank you for registering with us. One more\n step, you need to check your email\n to active your account</string>
+    <string name="code">doesn\'t get the code?</string>
+    <string-array name="BloodType">
+        <item>
+            Blood Type
+        </item>
+    </string-array>
+    <string-array name="Reshus">
+        <item>
+            Reshus
+        </item>
+    </string-array>
+    <string-array name="Job">
+        <item>
+            Job
+        </item>
+    </string-array>
+</resources>
